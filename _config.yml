@@ -5,4 +5,4 @@ relative_links:
   collections: true
 title: Ferticidio's
 description: Probando github pages
-theme: minima
+theme: jekyll-theme-minimal
