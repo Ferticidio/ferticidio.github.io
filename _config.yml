@@ -3,9 +3,13 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-include:
-  - index.md
-  - links.md
-theme: jekyll-theme-minimal
+defaults:
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
 title: Ferticidio's
 description: Probando github pages
+remote_theme: "mmistakes/minimal-mistakes@4.19.3"

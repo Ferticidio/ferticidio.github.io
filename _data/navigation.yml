@@ -1,0 +1,5 @@
+docs:
+  - title: "Links"
+    children:
+      - title: "Links"
+        url: links.html
