@@ -1,7 +1,5 @@
 ---
 layout: home
-title: ''
+title: 'Is this a blog?'
 ---
-## Welcome to another github pages site.
-
-Here, someday, I will put something.
+Maybe...

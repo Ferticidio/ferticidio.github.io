@@ -1,10 +1,10 @@
+title: Ferticidio's
+description: Another github pages site
+theme: minima
+
 plugins:
   - jekyll-relative-links
 relative_links:
   enabled: true
   collections: true
-include:
-  pages
-title: Ferticidio's
-description: Another github pages site
-theme: minima
+include: [pages]
